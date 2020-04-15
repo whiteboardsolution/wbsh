@@ -3,3 +3,5 @@ welcome to WBSH GIT REPOSITORY.
 Skool
 Selecto
 Education creed
+  
+  Thank you!
